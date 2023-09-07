@@ -1,29 +1,28 @@
-# forecast
+# COCKTAILS
 
-This template should help get you started developing with Vue 3 in Vite.
+<a href="https://forecast-vue.netlify.app/">DEMO</a>
 
-## Recommended IDE Setup
+A simple but useful and beautiful weather app. Here you can find out the current weather in any city. Just enter the name of the city. You will get information about temperature, wind, pressure and much more. For someone, this will be a handy starter code or components for future great projects. Why did I decide to take on this project? Very often we are given a technical task for developers before we are hired. And what kind of application do you think we are usually asked to make? A weather app, of course. Let this code be a starting point for such tasks because our time is very valuable! Enjoy!
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<h2>Technology</h2>
 
-## Customize configuration
+- Vue3
+- SASS
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+<h2>Version</h2>
 
-## Project Setup
+release v1.0
 
-```sh
-npm install
-```
+<h2>Bug tracker</h2>
 
-### Compile and Hot-Reload for Development
+If you find a bug, please report it <a href="https://github.com/Maximkooo/forecast/issues">here on Github!</a>
 
-```sh
-npm run dev
-```
+<h2>Developer</h2>
 
-### Compile and Minify for Production
+Developed by Maksym Synytskyi
 
-```sh
-npm run build
-```
+<ul>
+  <li><a href="https://www.linkedin.com/in/maksym-synytskyi-27a0a7222/">LinkedIn Profile</a></li>
+  <li><a href="https://github.com/Maximkooo">Github Profile</a></li>
+  <li><a href="https://maximkooo.github.io/synytskyi-portfolio/">Portfolio</a></li>
+</ul>
