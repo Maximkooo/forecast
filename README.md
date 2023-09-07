@@ -1,4 +1,4 @@
-# COCKTAILS
+# FORECAST
 
 <a href="https://forecast-vue.netlify.app/">DEMO</a>
 
